@@ -5,14 +5,14 @@ This Model was implemented in Google Colab
 Steps Followed:-
 1) Importing Basic Packages and Data Processing
 2) Correlation and Visualisation
-  1) Boxplot
-  2) Histogram
-  3) Scatter Matrix
-  4) Heatmaps (via Seaborn)
+  a) Boxplot
+  b) Histogram
+  c) Scatter Matrix
+  d) Heatmaps (via Seaborn)
 3) Test-Train Split
 4) Models implemented
-  1) Random Forest Classifier
-  2) Extreme Gradient Boost Algorithm
-  3) K-Nearest Neighbor Algorithm
-  4) SVM
-  5) ANN
+  a) Random Forest Classifier
+  b) Extreme Gradient Boost Algorithm
+  c) K-Nearest Neighbor Algorithm
+  d) SVM
+  e) ANN
